@@ -1,0 +1,31 @@
+---
+layout: home
+
+hero:
+  name: "Agent 设计之美"
+  text: "学习笔记"
+  tagline: "极客时间 · 黄佳 · 模式之美系列"
+  actions:
+    - theme: brand
+      text: 进入课程笔记 →
+      link: /courses/agent-design/
+    - theme: alt
+      text: 课程介绍
+      link: /courses/agent-design/
+
+features:
+  - title: 感知模块
+    details: "上下文分诊 · 语义压缩 · 渐进发现 · 多模态融合"
+    link: /courses/agent-design/06-感知模块导论：如何优雅设计Agent感知层
+    linkText: 开始阅读
+  - title: 记忆模块
+    details: "分层保留 · 检索增强 · 进度追踪"
+    link: /courses/agent-design/11-记忆模块导论：从草稿纸到长期记忆，建立 Agent 的经验沉淀秩序
+    linkText: 开始阅读
+  - title: 双轴框架
+    details: "七脉认知功能 × 六式执行拓扑，28 个 Agent 设计模式的坐标系"
+    link: /courses/agent-design/01-范式之变：GoF的崩塌和分布式的血脉进化
+    linkText: 开始阅读
+
+footer: 仅供个人学习用途，版权归极客时间及原作者黄佳所有
+---
